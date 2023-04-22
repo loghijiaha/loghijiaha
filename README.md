@@ -1,16 +1,39 @@
-### Hi there 👋
+<h1 align="center">Hi , I'm Loghi <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Software+Engineer;Open+Source+Enthusiast;Java%20|%20Algorithms%20|%20Kubernetes%20|%20MLOps%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
-<!--
-**lper1582/lper1582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lper1582&label=Profile%20views&color=0e75b6&style=flat" alt="lper1582" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/loghi5" target="blank"><img src="https://img.shields.io/twitter/follow/loghi5?logo=twitter&style=for-the-badge" alt="loghi5" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 🔭 I’m currently working on open source projects
+  - [Jenkins](https://plugins.jenkins.io/machine-learning/)
+  - [SpaCy](https://github.com/explosion/spaCy)
+  - [Git-Hook-Agent](https://github.com/lper1582/git-hook-agent)
+- 🐥 I tweet at [Twitter](https://twitter.com/loghi5)
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+
+<p align="left">
+<a href="https://github.com/azizovrafael">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lper1582&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+  
+  ### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/loghi/"><img src="https://img.shields.io/badge/-Loghi%20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:loghijiaha@gmail.com"><img src="https://img.shields.io/badge/-loghijiaha@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+</p>
