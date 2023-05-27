@@ -18,16 +18,11 @@
 - 🐥 I tweet at [Twitter](https://twitter.com/loghi5)
 
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Java](https://img.shields.io/badge/%20-Java-red)&nbsp;
+![Rust](https://img.shields.io/badge/%20-Rust%20-orange)&nbsp;
+![Python](https://img.shields.io/badge/%20-Python-yellow)&nbsp;
+![Git](https://img.shields.io/badge/%20-Git-brightgreen)&nbsp;
 
-
-<p align="left">
-<a href="https://github.com/azizovrafael">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lper1582&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 
   
   ### 🤝🏻 &nbsp;Connect with Me
