@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Loghi <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Software+Engineer;Open+Source;Java%20|Rust%20|%20Algorithms%20|%20Kubernetes%20|%20MLOps%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Software+Engineer;Open+Source+fan;Java%20|Rust%20|%20DSA%20|%20Kubernetes%20|;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lper1582&label=Profile%20views&color=0e75b6&style=flat" alt="lper1582" /> </p>
