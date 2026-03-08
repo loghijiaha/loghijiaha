@@ -11,20 +11,8 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on open source projects
-  - [Jenkins](https://plugins.jenkins.io/machine-learning/)
-  - [SpaCy](https://github.com/explosion/spaCy)
-  - [Git-Hook-Agent](https://github.com/lper1582/git-hook-agent)
-- 🐥 I tweet at [Twitter](https://twitter.com/loghi5)
 
 
-![Java](https://img.shields.io/badge/%20-Java-red)&nbsp;
-![Rust](https://img.shields.io/badge/%20-Rust%20-orange)&nbsp;
-![Python](https://img.shields.io/badge/%20-Python-yellow)&nbsp;
-![Git](https://img.shields.io/badge/%20-Git-brightgreen)&nbsp;
-
-
-  
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
